@@ -1,0 +1,18 @@
+.number {
+    color: black;
+}
+
+.boton {
+    border: none;
+    background-color: transparent;
+}
+
+.boton :hover{
+    background-color: rgb(112, 68, 246);
+    transition: 2s;
+}
+
+.productos {
+    font-size: 2rem;
+    color: rgb(47, 4, 4);
+}
