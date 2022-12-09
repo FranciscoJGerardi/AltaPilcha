@@ -1,0 +1,239 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera MC Always and Forever (Gri)",
+        "precio": 3500,
+        "stock": 5,
+        "img": "Remera MC Always and Forever (Gri).jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera Mc Blabac Josh Kalis Lovepark (Bla) DC",
+        "precio": 3500,
+        "stock": 10,
+        "img": "Remera Mc Blabac Josh Kalis Lovepark (Bla) DC.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera Mc Dc Camo (Cam) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Remera Mc Dc Camo (Cam) DC.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera Mc Dcshoescousa Ringer (Bla) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Remera Mc Dcshoescousa Ringer (Bla) DC.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera Mc Dcshoescousa Ringer (Neg) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Remera Mc Dcshoescousa Ringer (Neg) DC.jpeg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera MC Pocket Label (Obi) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Remera MC Pocket Label (Obi) DC.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera Mc Reach For It (Ama) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Remera Mc Reach For It (Ama) DC.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera Mc Reach For It (Gri) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Remera Mc Reach For It (Gri) DC.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera Mc Reach For It (Roj) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Remera Mc Reach For It (Roj) DC.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera MC Round We Go (Nar) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Remera MC Round We Go (Nar) DC.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera MC Shoe Co Classic (OBI) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Remera MC Shoe Co Classic (OBI) DC.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 1,
+        "nombre": "Remera",
+        "modelo": "Remera MC Star Pilot (Rojo) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Remera MC Star Pilot (Rojo) DC.jpg"
+    },
+    
+
+
+    {
+        "id": 13,
+        "idCategoria": 2,
+        "nombre": "Buzo",
+        "modelo": "Buzo Canguro Circle Star (Neg) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Buzo Canguro Circle Star (Neg) DC.jpg"
+    },
+    {
+        "id": 14,
+        "idCategoria": 2,
+        "nombre": "Buzo",
+        "modelo": "Buzo Canguro Riot 2 (Neg) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Buzo Canguro Riot 2 (Neg) DC.jpg"
+    },
+    {
+        "id": 15,
+        "idCategoria": 2,
+        "nombre": "Buzo",
+        "modelo": "Buzo Canguro Skate Reverse (Ama) Dc",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Buzo Canguro Skate Reverse (Ama) Dc.jpg"
+    },
+    {
+        "id": 16,
+        "idCategoria": 2,
+        "nombre": "Buzo",
+        "modelo": "Buzo Canguro Star Pilot (Azf) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Buzo Canguro Star Pilot (Azf) DC.jpg"
+    },
+    {
+        "id": 17,
+        "idCategoria": 2,
+        "nombre": "Buzo",
+        "modelo": "Buzo Canguro Studley 2 (Gri) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Buzo Canguro Studley 2 (Gri) DC.jpg"
+    },
+    {
+        "id": 18,
+        "idCategoria": 2,
+        "nombre": "Buzo",
+        "modelo": "Buzo Canguro Studley 2 (Neg) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Buzo Canguro Studley 2 (Neg) DC.jpg"
+    },
+    {
+        "id": 19,
+        "idCategoria": 2,
+        "nombre": "Buzo",
+        "modelo": "Buzo Riot 2 (Neg) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Buzo Riot 2 (Neg) DC.jpg"
+    },
+    {
+        "id": 20,
+        "idCategoria": 4,
+        "nombre": "Billetera",
+        "modelo": "Billetera DCSHOECOUSA 2 (Mar) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Billetera DCSHOECOUSA 2 (Mar) DC.jpg"
+    },
+    {
+        "id": 21,
+        "idCategoria": 4,
+        "nombre": "Billetera",
+        "modelo": "Billetera Ripstop 2 (Negro) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Billetera Ripstop 2 (Negro) DC.jpg"
+    },
+    {
+        "id": 22,
+        "idCategoria": 4,
+        "nombre": "Cinturon",
+        "modelo": "Cinto Web 3 (Azp) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Cinto Web 3 (Azp) DC.jpg"
+    },
+    {
+        "id": 23,
+        "idCategoria": 4,
+        "nombre": "Cinturon",
+        "modelo": "Cinto Web 3 (Cam) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Cinto Web 3 (Cam) DC.jpg"
+    },
+    {
+        "id": 24,
+        "idCategoria": 4,
+        "nombre": "Gorro",
+        "modelo": "Hat Basic Wash (Azp) Dc",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Hat Basic Wash (Azp) Dc.jpg"
+    },
+    {
+        "id": 25,
+        "idCategoria": 4,
+        "nombre": "Gorro",
+        "modelo": "Hat Basic Wash (Neg) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Hat Basic Wash (Neg) DC.jpg"
+    },
+    {
+        "id": 26,
+        "idCategoria": 4,
+        "nombre": "Gorro",
+        "modelo": "Hat Basic Wash (Ver) DC",
+        "precio": 3500,
+        "stock": 30,
+        "img": "Hat Basic Wash (Ver) DC.jpg"
+    }
+]

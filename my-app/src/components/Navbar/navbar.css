@@ -1,0 +1,25 @@
+.number {
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding-right: 1rem;
+}
+
+.boton{
+    padding: 0rem;
+    height: 4rem;
+    width: 4rem;
+    border-radius:50%;
+}
+
+.productos {
+    font-size: 2rem;
+    color: rgb(47, 4, 4);
+}
+
+.navbar{
+    padding: 0;
+}
